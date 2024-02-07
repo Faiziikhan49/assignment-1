@@ -1,3 +1,3 @@
 # assignment-1
 Medium story link: https://medium.com/@fahmad2/assignment-1-how-restaurant-profit-is-influenced-by-city-size-713cc7a1bf57
-Github: 
+Github:  https://github.com/Faiziikhan49/assignment-1/tree/main
